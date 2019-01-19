@@ -12,3 +12,6 @@ me文件1
 
 lancyjia文件夹1
 >>>>>>> .theirs
+
+
+文件2
